@@ -1,6 +1,6 @@
 # Valentines-2k25
 
- <!DOCTYPE html>
+ 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,8 +15,7 @@
     <h1>404 Error - Page Not Found</h1>
     <p><a href="valentine.html">Click here</a> if you're feeling lost...</p>
 </body>
-</html>
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
